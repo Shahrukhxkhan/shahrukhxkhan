@@ -103,7 +103,7 @@ AI-driven code review platform with real-time dashboards and Claude-powered anal
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7DD3FC?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/shahrukhxkhan/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7DD3FC?style=for-the-badge&logo=vercel&logoColor=black)](((portfolio-url)))
+[![Portfolio](https://img.shields.io/badge/Portfolio-7DD3FC?style=for-the-badge&logo=vercel&logoColor=black)](https://shahrukhxkhan.vercel.app/)
 
 </div>
 
