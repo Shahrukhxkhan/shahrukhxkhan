@@ -69,18 +69,23 @@ AI-driven code review platform with real-time dashboards and Claude-powered anal
 ### 🛠️ Tech Stack
 
 **Languages**
+
 ![Skills](https://skillicons.dev/icons?i=python,ts,js,mysql)
 
 **Frontend**
+
 ![Skills](https://skillicons.dev/icons?i=react,threejs,tailwind)
 
 **Backend / Infra**
+
 ![Skills](https://skillicons.dev/icons?i=nodejs,supabase,git)
 
 **AI / DB**
+
 ![Skills](https://skillicons.dev/icons?i=opencv,mysql)
 
 **Dev Tools**
+
 ![Skills](https://skillicons.dev/icons?i=git,vercel)
 
 ### 📊 GitHub Stats
