@@ -43,7 +43,9 @@ const shahrukh = {
 #### SkillLoom
 AI-powered hiring platform for Pakistan's textile industry — facial-verification-based worker–employer matching and demand forecasting.
 
+
 ![SkillLoom](https://github-readme-stats.vercel.app/api/pin/?username=Shahrukhxkhan&repo=((skillloom-repo))&theme=nord&border_color=7DD3FC)
+
 
 | Layer | Technology |
 |---|---|
@@ -53,10 +55,12 @@ AI-powered hiring platform for Pakistan's textile industry — facial-verificati
 
 [Live ((skillloom-live))](#) · [Code](https://github.com/Shahrukhxkhan/((skillloom-repo)))
 
+
 #### AI-Review Pro
 AI-driven code review platform with real-time dashboards and Claude-powered analysis.
 
 ![AI-Review Pro](https://github-readme-stats.vercel.app/api/pin/?username=Shahrukhxkhan&repo=((ai-review-pro-repo))&theme=nord&border_color=7DD3FC)
+
 
 | Layer | Technology |
 |---|---|
@@ -64,7 +68,9 @@ AI-driven code review platform with real-time dashboards and Claude-powered anal
 | Backend | Supabase |
 | AI | Claude API |
 
+
 [Live ((ai-review-pro-live))](#) · [Code](https://github.com/Shahrukhxkhan/((ai-review-pro-repo)))
+
 
 ### 🛠️ Tech Stack
 
