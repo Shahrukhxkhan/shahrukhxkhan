@@ -19,7 +19,7 @@
 
 </div>
 
-### ` who am i `
+### ` My Introducation `
 
 Final-year Computer Science student building AI products end-to-end — from ML pipeline to shipped UI — across textile-tech, civic-tech, and dev tooling. Comfortable bridging research and production, backed by hands-on DevOps experience at government-scale infrastructure most final-year students never touch. Currently deep in backend deployment work and MLOps at Pakistan Ordnance Factories.
 
