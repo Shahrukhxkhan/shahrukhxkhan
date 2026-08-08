@@ -19,7 +19,7 @@
 
 </div>
 
-### `$ whoami`
+### ` who am i `
 
 Final-year Computer Science student building AI products end-to-end — from ML pipeline to shipped UI — across textile-tech, civic-tech, and dev tooling. Comfortable bridging research and production, backed by hands-on DevOps experience at government-scale infrastructure most final-year students never touch. Currently deep in backend deployment work and MLOps at Pakistan Ordnance Factories.
 
@@ -31,7 +31,7 @@ STACK    : Python, TypeScript, React, Node.js, Supabase, DeepFace/ArcFace
 OPEN_TO  : AI/ML & Full-Stack — Full-time, Remote / Hybrid
 ```
 
-### `$ tech --stack`
+### ` Tech --stack`
 
 **Languages**
 
@@ -53,14 +53,14 @@ OPEN_TO  : AI/ML & Full-Stack — Full-time, Remote / Hybrid
 
 ![Skills](https://skillicons.dev/icons?i=git,vercel)
 
-### `$ specialties --list`
+### ` Specialties --list`
 
 ![AI/ML](https://img.shields.io/badge/AI%2FML_Engineering-00E5FF?style=flat-square&labelColor=0A0E14)
 ![CV](https://img.shields.io/badge/Computer_Vision-00E5FF?style=flat-square&labelColor=0A0E14)
 ![FullStack](https://img.shields.io/badge/Full--Stack_Development-00E5FF?style=flat-square&labelColor=0A0E14)
 ![API](https://img.shields.io/badge/API_Integration-00E5FF?style=flat-square&labelColor=0A0E14)
 
-### `$ expertise --table`
+### ` Expertise --table`
 
 | Domain | Proficiency | Details |
 |---|---|---|
@@ -71,7 +71,7 @@ OPEN_TO  : AI/ML & Full-Stack — Full-time, Remote / Hybrid
 | Civic-Tech & Social Impact Systems | Intermediate | Donor/nonprofit marketplace architecture (Tech-Equity Bridge) |
 | API Integration & Data Tools | Advanced | Claude API, Google Maps API, GitHub OAuth, Supabase |
 
-### `$ projects --featured`
+### ` Projects --featured`
 
 #### SkillLoom
 AI-powered hiring platform for Pakistan's textile industry — facial-verification-based worker–employer matching and demand forecasting.
@@ -139,7 +139,7 @@ QR-based digital museum guide — visitors scan codes at exhibits to access info
 
 [Code](https://github.com/Shahrukhxkhan/PMNH-QR)
 
-### `$ experience --log`
+### ` Experience --log `
 
 #### AI/ML & DevOps Intern — Pakistan Ordnance Factories (POF)
 `July 2026 – Present` · 🟢 Currently Active
@@ -177,7 +177,7 @@ QR-based digital museum guide — visitors scan codes at exhibits to access info
 
 `Python` `Analytical Skills` `Collaboration`
 
-### `$ achievements --verified`
+### ` Achievements --verified `
 
 <div align="center">
 
@@ -191,11 +191,11 @@ QR-based digital museum guide — visitors scan codes at exhibits to access info
 
 </div>
 
-### `$ education`
+### ` Education`
 
 ![Education](https://img.shields.io/badge/BS_Computer_Science_%E2%80%94_COMSATS_University_Islamabad-00E5FF?style=for-the-badge&labelColor=0A0E14)
 
-### `$ analytics --github`
+### ` Analytics --Github`
 
 <div align="center">
 
@@ -206,7 +206,7 @@ QR-based digital museum guide — visitors scan codes at exhibits to access info
 
 </div>
 
-### `$ trophies`
+### ` Trophies`
 
 <div align="center">
 
@@ -214,7 +214,7 @@ QR-based digital museum guide — visitors scan codes at exhibits to access info
 
 </div>
 
-### `$ activity --graph`
+### ` Activity --Graph`
 
 <div align="center">
 
@@ -222,7 +222,7 @@ QR-based digital museum guide — visitors scan codes at exhibits to access info
 
 </div>
 
-### `$ summary --cards`
+### ` Summary --Cards`
 
 <div align="center">
 
@@ -236,7 +236,7 @@ QR-based digital museum guide — visitors scan codes at exhibits to access info
 
 </div>
 
-### `$ contribution --snake`
+### ` Contribution --Snake`
 
 <div align="center">
 
@@ -244,7 +244,7 @@ QR-based digital museum guide — visitors scan codes at exhibits to access info
 
 </div>
 
-### `$ status --current`
+### ` Status --Current`
 
 ```yaml
 current:
