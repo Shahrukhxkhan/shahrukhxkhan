@@ -2,7 +2,8 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=rect&color=00E5FF&height=180&section=header&text=Shahrukh%20Khan&fontSize=38&fontColor=0A0E14&fontAlignY=40&desc=AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20CS%20Student&descAlignY=70&descSize=16&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=%24+whoami;%3E+AI%2FML+Engineer+%26+Full-Stack+Developer;%24+building+--now;%3E+Backend+Deployment+%2B+MLOps;%24+open_to+--roles;%3E+AI%2FML+%7C+Full-Stack+%7C+Remote+%7C+Hybrid)](https://github.com/Shahrukhxkhan)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=%24+whoami;%3E+AI%2FML+Engineer+%26+Full-Stack+Developer;%24+building+--now;%3E+Backend+Deployment+%2B+MLOps;%24+open_to+--roles;%3E+AI%2FML+%7C+Full-Stack+%7C+Remote+%7C+Hybrid)
+
 
 ![Degree](https://img.shields.io/badge/BS_Computer_Science-00E5FF?style=flat-square&labelColor=0A0E14)
 ![University](https://img.shields.io/badge/COMSATS_University_Islamabad-00E5FF?style=flat-square&labelColor=0A0E14)
@@ -10,7 +11,6 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=vercel&logoColor=0A0E14)](https://shahrukhxkhan.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=0A0E14)](https://www.linkedin.com/in/shahrukhxkhan/)
-[![Email](https://img.shields.io/badge/Email-00E5FF?style=for-the-badge&logo=gmail&logoColor=0A0E14)](mailto:shahrukh032003@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-00E5FF?style=for-the-badge&logo=github&logoColor=0A0E14)](https://github.com/Shahrukhxkhan)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Shahrukhxkhan&color=00E5FF&style=for-the-badge&label=PROFILE+VIEWS)
@@ -142,7 +142,7 @@ QR-based digital museum guide — visitors scan codes at exhibits to access info
 ### ` Experience --log `
 
 #### AI/ML & DevOps Intern — Pakistan Ordnance Factories (POF)
-`July 2026 – Present` · 🟢 Currently Active
+`July 2026 – Present` ·  Currently Active
 
 - Applying AI/ML and DevOps practices in a government defense-sector environment
 - Working on intelligent systems and automation pipelines at one of Pakistan's largest manufacturing organizations
@@ -259,8 +259,10 @@ current:
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=vercel&logoColor=0A0E14)](https://shahrukhxkhan.vercel.app)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=0A0E14)](https://www.linkedin.com/in/shahrukhxkhan/)
-[![Email](https://img.shields.io/badge/Email-00E5FF?style=for-the-badge&logo=gmail&logoColor=0A0E14)](mailto:shahrukh032003@gmail.com)
+
+
 
 > Building today what I'll ship tomorrow.
 
