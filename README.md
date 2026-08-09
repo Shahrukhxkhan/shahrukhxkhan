@@ -191,9 +191,6 @@ QR-based digital museum guide — visitors scan codes at exhibits to access info
 
 </div>
 
-### ` Education`
-
-![Education](https://img.shields.io/badge/BS_Computer_Science_%E2%80%94_COMSATS_University_Islamabad-00E5FF?style=for-the-badge&labelColor=0A0E14)
 
 ### ` Analytics --Github`
 
@@ -206,11 +203,7 @@ QR-based digital museum guide — visitors scan codes at exhibits to access info
 
 </div>
 
-### ` Trophies`
 
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Shahrukhxkhan&theme=nord&no-frame=true&no-bg=true&column=7)
 
 </div>
 
