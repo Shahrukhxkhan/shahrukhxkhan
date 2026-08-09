@@ -71,73 +71,7 @@ OPEN_TO  : AI/ML & Full-Stack — Full-time, Remote / Hybrid
 | Civic-Tech & Social Impact Systems | Intermediate | Donor/nonprofit marketplace architecture (Tech-Equity Bridge) |
 | API Integration & Data Tools | Advanced | Claude API, Google Maps API, GitHub OAuth, Supabase |
 
-### ` Projects --featured`
 
-#### SkillLoom
-AI-powered hiring platform for Pakistan's textile industry — facial-verification-based worker–employer matching and demand forecasting.
-
-![SkillLoom](https://github-readme-stats.vercel.app/api/pin/?username=Shahrukhxkhan&repo=SKILLLOOM-REVIEW-&theme=nord&border_color=00E5FF)
-
-| Layer | Technology |
-|---|---|
-| AI/ML | DeepFace, ArcFace, OpenCV |
-| Forecasting | KDE, Google Maps API |
-| Backend | Python |
-
-[Code](https://github.com/Shahrukhxkhan/SKILLLOOM-REVIEW-)
-
-#### AI-Review Pro
-AI-driven code review platform with real-time dashboards and Claude-powered analysis.
-
-![AI-Review Pro](https://github-readme-stats.vercel.app/api/pin/?username=Shahrukhxkhan&repo=AI-Review-Pro&theme=nord&border_color=00E5FF)
-
-| Layer | Technology |
-|---|---|
-| Frontend | React, Vite, Tailwind CSS |
-| Backend | Supabase |
-| AI | Claude API |
-
-[Code](https://github.com/Shahrukhxkhan/AI-Review-Pro)
-
-#### Tech-Equity Bridge
-Civic-tech marketplace connecting AI resource donors with non-profits, closing the AI access gap for social impact.
-
-![Tech-Equity Bridge](https://github-readme-stats.vercel.app/api/pin/?username=Shahrukhxkhan&repo=Tech-Equity-Bridge&theme=nord&border_color=00E5FF)
-
-| Layer | Technology |
-|---|---|
-| Frontend | React 19, Civic Commons Design System |
-| API | tRPC |
-| Database | Drizzle ORM |
-
-[Code](https://github.com/Shahrukhxkhan/Tech-Equity-Bridge)
-
-#### Code Graveyard
-Post-mortem platform for documenting failed or abandoned dev projects.
-
-![Code Graveyard](https://github-readme-stats.vercel.app/api/pin/?username=Shahrukhxkhan&repo=Code-Graveyard&theme=nord&border_color=00E5FF)
-
-| Layer | Technology |
-|---|---|
-| Framework | Next.js 14 |
-| UI | Radix UI |
-| Backend | Supabase |
-| Auth | GitHub OAuth |
-
-[Code](https://github.com/Shahrukhxkhan/Code-Graveyard)
-
-#### PMNH Museum Guide
-QR-based digital museum guide — visitors scan codes at exhibits to access information instantly. Commissioned client project.
-
-![PMNH Museum Guide](https://github-readme-stats.vercel.app/api/pin/?username=Shahrukhxkhan&repo=PMNH-QR&theme=nord&border_color=00E5FF)
-
-| Layer | Technology |
-|---|---|
-| Frontend | React, Tailwind CSS |
-| QR Handling | QR code generation & scanning |
-| Deployment | Vercel |
-
-[Code](https://github.com/Shahrukhxkhan/PMNH-QR)
 
 ### ` Experience --log `
 
