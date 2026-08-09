@@ -1,6 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=rect&color=00E5FF&height=180&section=header&text=Shahrukh%20Khan&fontSize=38&fontColor=0A0E14&fontAlignY=40&desc=AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20CS%20Student&descAlignY=70&descSize=16&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=7DD3FC&height=200&section=header&text=Shahrukh%20Khan&fontSize=40&fontColor=0B0F19&animation=twinkling&desc=AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20CS%20Student&descAlignY=65&descSize=18)
+
+
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=%24+whoami;%3E+AI%2FML+Engineer+%26+Full-Stack+Developer;%24+building+--now;%3E+Backend+Deployment+%2B+MLOps;%24+open_to+--roles;%3E+AI%2FML+%7C+Full-Stack+%7C+Remote+%7C+Hybrid)
 
