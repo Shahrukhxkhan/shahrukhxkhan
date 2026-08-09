@@ -7,11 +7,11 @@
 
 ![Degree](https://img.shields.io/badge/BS_Computer_Science-00E5FF?style=flat-square&labelColor=0A0E14)
 ![University](https://img.shields.io/badge/COMSATS_University_Islamabad-00E5FF?style=flat-square&labelColor=0A0E14)
-![Location](https://img.shields.io/badge/Wah_Cantt%2C_Pakistan-00E5FF?style=flat-square&labelColor=0A0E14)
+
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=vercel&logoColor=0A0E14)](https://shahrukhxkhan.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=0A0E14)](https://www.linkedin.com/in/shahrukhxkhan/)
-[![GitHub](https://img.shields.io/badge/GitHub-00E5FF?style=for-the-badge&logo=github&logoColor=0A0E14)](https://github.com/Shahrukhxkhan)
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Shahrukhxkhan&color=00E5FF&style=for-the-badge&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/Shahrukhxkhan?style=for-the-badge&color=00E5FF&labelColor=0A0E14)
