@@ -195,4 +195,8 @@ current:
 
 </div>
 
+<p align="center">
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=120&section=footer&animation=twinkling)
+
+</p>
