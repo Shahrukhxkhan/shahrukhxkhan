@@ -131,18 +131,13 @@ OPEN_TO  : AI/ML & Full-Stack — Full-time, Remote / Hybrid
 
 ### `Analytics --Github`
 
-<h3 align="center">Analytics -- Github</h3>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shahrukhxkhan&show_icons=true&theme=nord&hide_border=false&border_color=00E5FF&title_color=00E5FF&icon_color=00E5FF&bg_color=0A0E14" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahrukhxkhan&layout=compact&theme=nord&hide_border=false&border_color=00E5FF&title_color=00E5FF&bg_color=0A0E14" width="48%" />
 
 <br><br>
 
 <img src="https://streak-stats.demolab.com/?user=Shahrukhxkhan&theme=nord&hide_border=false&border=00E5FF&ring=00E5FF&fire=00E5FF&background=0A0E14" width="70%" />
-
 
 </div>
 
