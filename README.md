@@ -33,7 +33,7 @@ STACK    : Python, TypeScript, React, Node.js, Supabase, DeepFace/ArcFace
 OPEN_TO  : AI/ML & Full-Stack — Full-time, Remote / Hybrid
 ```
 
-### ` Tech --stack`
+### ` Tech stack`
 
 **Languages**
 
@@ -55,14 +55,14 @@ OPEN_TO  : AI/ML & Full-Stack — Full-time, Remote / Hybrid
 
 ![Skills](https://skillicons.dev/icons?i=git,vercel)
 
-### ` Specialties --list`
+### ` Specialties list`
 
 ![AI/ML](https://img.shields.io/badge/AI%2FML_Engineering-00E5FF?style=flat-square&labelColor=0A0E14)
 ![CV](https://img.shields.io/badge/Computer_Vision-00E5FF?style=flat-square&labelColor=0A0E14)
 ![FullStack](https://img.shields.io/badge/Full--Stack_Development-00E5FF?style=flat-square&labelColor=0A0E14)
 ![API](https://img.shields.io/badge/API_Integration-00E5FF?style=flat-square&labelColor=0A0E14)
 
-### ` Expertise --table`
+### ` Expertise table`
 
 | Domain | Proficiency | Details |
 |---|---|---|
@@ -75,7 +75,7 @@ OPEN_TO  : AI/ML & Full-Stack — Full-time, Remote / Hybrid
 
 
 
-### ` Experience --log `
+### ` Experience log `
 
 #### AI/ML & DevOps Intern — Pakistan Ordnance Factories (POF)
 `July 2026 – Present` ·  Currently Active
@@ -113,7 +113,7 @@ OPEN_TO  : AI/ML & Full-Stack — Full-time, Remote / Hybrid
 
 `Python` `Analytical Skills` `Collaboration`
 
-### ` Achievements --verified `
+### ` Achievements verified `
 
 <div align="center">
 
@@ -129,19 +129,14 @@ OPEN_TO  : AI/ML & Full-Stack — Full-time, Remote / Hybrid
 
 
 
-### `Analytics --Github`
-
-
+### `Analytics Github`
 <div align="center">
-
-
-<br><br>
 
 <img src="https://streak-stats.demolab.com/?user=Shahrukhxkhan&theme=nord&hide_border=false&border=00E5FF&ring=00E5FF&fire=00E5FF&background=0A0E14" width="70%" />
 
 </div>
 
-### ` Activity --Graph`
+### ` Activity Graph`
 
 <div align="center">
 
@@ -149,7 +144,7 @@ OPEN_TO  : AI/ML & Full-Stack — Full-time, Remote / Hybrid
 
 </div>
 
-### ` Summary --Cards`
+### ` Summary Cards`
 
 <div align="center">
 
@@ -163,7 +158,7 @@ OPEN_TO  : AI/ML & Full-Stack — Full-time, Remote / Hybrid
 
 </div>
 
-### ` Contribution --Snake`
+### ` Contribution Snake`
 
 <div align="center">
 
@@ -171,7 +166,7 @@ OPEN_TO  : AI/ML & Full-Stack — Full-time, Remote / Hybrid
 
 </div>
 
-### ` Status --Current`
+### ` Status Current`
 
 ```yaml
 current:
@@ -181,7 +176,7 @@ current:
   open_to: [AI/ML Roles, Full-Stack Roles, Full-time, Remote, Hybrid]
 ```
 
-### `$ connect --with-me`
+### `Connect with-me`
 
 <div align="center">
 
