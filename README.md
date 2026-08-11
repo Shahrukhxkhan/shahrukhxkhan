@@ -128,17 +128,27 @@ OPEN_TO  : AI/ML & Full-Stack — Full-time, Remote / Hybrid
 </div>
 
 
-### ` Analytics --Github`
+
+### `Analytics --Github`
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Shahrukhxkhan&show_icons=true&theme=nord&border_color=00E5FF&title_color=00E5FF&icon_color=00E5FF&bg_color=0A0E14)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahrukhxkhan&layout=compact&theme=nord&border_color=00E5FF&title_color=00E5FF&bg_color=0A0E14)
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Shahrukhxkhan&show_icons=true&theme=nord&border_color=00E5FF&title_color=00E5FF&icon_color=00E5FF&bg_color=0A0E14"
+  height="180"
+/>
 
-![Streak](https://streak-stats.demolab.com/?user=Shahrukhxkhan&theme=nord&border=00E5FF&ring=00E5FF&fire=00E5FF&background=0A0E14)
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahrukhxkhan&layout=compact&theme=nord&border_color=00E5FF&title_color=00E5FF&bg_color=0A0E14"
+  height="180"
+/>
 
-</div>
+<br><br>
 
+<img
+  src="https://streak-stats.demolab.com/?user=Shahrukhxkhan&theme=nord&border=00E5FF&ring=00E5FF&fire=00E5FF&background=0A0E14"
+  height="180"
+/>
 
 
 </div>
